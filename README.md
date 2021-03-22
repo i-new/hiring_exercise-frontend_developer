@@ -21,4 +21,4 @@ The cards should have:
 
 ## Additional Information
 
-You may use a React UI components library if you wish, you are free to use any resources for the solution. Time limit is 24 hours. 
+You may use a React UI components library if you wish, you are free to use any resources for the solution.
